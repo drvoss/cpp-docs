@@ -56,7 +56,7 @@ On a certain cadence, we push all commits from master branch into the live branc
 
 ## DOs and DON'Ts
 
-Below is a short list of guiding rules that you should keep in mind when you are contributing to the .NET documentation.
+Below is a short list of guiding rules that you should keep in mind when you are contributing to the documentation.
 
 - **DON'T** surprise us with big pull requests. Instead, file an issue and start a discussion so we can agree on a direction before you invest a large amount of time.
 - **DO** read the [style guide](./styleguide/template.md) and [voice and tone](./styleguide/voice-tone.md) guidelines.
